@@ -1,5 +1,5 @@
 # A D Sangeetha 
-### Bsc computer science
+## Bsc computer science
 ### Passed out year 2023
 ### SSM College of arts and science kumarapalayam 
 **certification: Python full stack developement**
